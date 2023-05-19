@@ -1,0 +1,377 @@
+body{
+    background-color: black;
+    user-select: none;
+}
+.buttons{
+
+    text-align: center;
+}
+button{
+    margin: 20px;
+    min-height: 80px;
+    min-width: 300px;
+    border: 1px solid purple;
+    margin-bottom: 100px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    margin-left: 30px;
+    
+    }
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div1 {
+    grid-area: 1 / 1 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div2 {
+    grid-area: 1 / 2 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div3 {
+    grid-area: 1 / 3 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div4 {
+    grid-area: 1 / 4 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div5 {
+    grid-area: 1 / 5 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div6 {
+    grid-area: 1 / 6 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div7 {
+    grid-area: 1 / 7 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div8 {
+    grid-area: 1 / 8 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div9 {
+    grid-area: 2 / 1 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div10 {
+    grid-area: 2 / 2 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div11 {
+    grid-area: 2 / 3 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div12 {
+    grid-area: 2 / 4 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div13 {
+    grid-area: 2 / 5 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div14 {
+    grid-area: 2 / 6 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div15 {
+    grid-area: 2 / 7 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div16 {
+    grid-area: 2 / 8 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div17 {
+    grid-area: 3 / 1 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div18 {
+    grid-area: 3 / 2 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div19 {
+    grid-area: 3 / 3 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div20 {
+    grid-area: 3 / 4 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div21 {
+    grid-area: 3 / 5 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div22 {
+    grid-area: 3 / 6 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div23 {
+    grid-area: 3 / 7 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div24 {
+    grid-area: 3 / 8 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div25 {
+    grid-area: 4 / 1 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div26 {
+    grid-area: 4 / 2 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div27 {
+    grid-area: 4 / 3 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div28 {
+    grid-area: 4 / 4 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div29 {
+    grid-area: 4 / 5 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div30 {
+    grid-area: 4 / 6 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div31 {
+    grid-area: 4 / 7 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+.div32 {
+    grid-area: 4 / 8 / 5 / 9; 
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 1px;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+    
